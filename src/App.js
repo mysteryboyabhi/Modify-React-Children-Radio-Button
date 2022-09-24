@@ -30,6 +30,7 @@ export default function App() {
         <RadioButton>Option 3</RadioButton>
         <RadioButton>Option 4</RadioButton>
         <RadioButton>Option 5</RadioButton>
+        <RadioButton>Option 7</RadioButton>
       </RadioGroup>
     </>
   );
