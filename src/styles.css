@@ -1,0 +1,8 @@
+.App {
+  display: block;
+  font-family: serif;
+  text-align: center;
+  background-color: red;
+  width: 500px;
+  height: 500px;
+}
